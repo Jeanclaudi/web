@@ -13,12 +13,19 @@
 <p>
     <a href= "https://jeanclaudi.github.io/web/atividade03/tabela01.html">
     tabela 01</a>
+</p>
+<p>
     <a href= "https://jeanclaudi.github.io/web/atividade03/tabela02.html">
     tabela 02</a>
+</p>
+<p>
     <a href= "https://jeanclaudi.github.io/web/atividade03/tabela03.html">
     tabela 03</a>
+</p>
+<p>
     <a href= "https://jeanclaudi.github.io/web/atividade03/tabela04.html">
     tabela 04</a>
 </p>
+
 
 
