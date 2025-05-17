@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1>Formulário</h1>
+
+    <form>
+        <fieldset style="width: 500px;">
+            <legend><b>Dados pessoais</b></legend>
+
+            Nome:
+            <input type="text" name="nome" size="20"><br><br> 
+            Endereço:
+            <input type="text" name="endereco" size="20"><br><br>
+            Cidade:
+            <input type="text" name="cidade" size="20"><br><br>
+            Estado:
+            <select name="estado">
+                <option>São Paulo</option>
+                <option>Rio de Janeiro</option>
+                <option>Minas Gerais</option>
+                <option>Bahia</option>
+            </select>
+        </fieldset>
+
+        <br>
+
+        <fieldset style="width: 600px;">
+            <legend><b>Dados profissionais</b></legend>
+
+            Natureza do Cargo<br>
+            <input type="radio" name="cargo" value="gerencia" checked> Gerência
+            <input type="radio" name="cargo" value="financeiro"> Financeiro
+            <input type="radio" name="cargo" value="recepcao"> Recepção
+            <input type="radio" name="cargo" value="adm"> Administrativo
+            <input type="radio" name="cargo" value="juridico"> Jurídico
+
+            <br><br>
+
+            Área de interesse<br>
+            <input type="checkbox" name="area" value="computacao"> Computação
+            <input type="checkbox" name="area" value="biologia"> Biologia
+            <input type="checkbox" name="area" value="meioambiente"> Meio Ambiente
+            <input type="checkbox" name="area" value="engenharia"> Engenharia
+            <input type="checkbox" name="area" value="historia"> História
+
+            <br><br>
+
+            <center>
+                <textarea name="minicurriculo" rows="5" cols="50"></textarea><br>
+            </center>
+            Mini-curriculo:
+        </fieldset>
+
+        <br>
+
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Limpar">
+    </form>
+</body>
+</html>
