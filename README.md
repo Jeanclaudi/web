@@ -39,8 +39,8 @@
 </p>
     atividade 05
 <p>
-    <a href= "https://jeanclaudi.github.io/web/
-    atividade05/">Gerenciador de tarefas</a>
+    <a href= "https://jeanclaudi.github.io/web/atividade05/">
+    Gerenciador de tarefas</a>
 </p>
 
 
